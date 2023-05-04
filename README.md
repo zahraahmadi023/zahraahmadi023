@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Dart/Flutter<br>💬Soft ware Engineer Student<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on company <br>⚡ Step by step to reach the goal<Strong>
+🔭 I’m currently working on Dart/Flutter<br>💬Soft ware Engineer Student<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on a company <br>⚡ Step by step to reach the goal<Strong>
  
 
 # 💻 Tech Stack:
