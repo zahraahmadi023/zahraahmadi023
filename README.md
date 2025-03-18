@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on Dart/Flutter<br>💬Soft ware Engineer Student<br>🌱 I’m currently learning Flutter<br>👯 I’m looking to collaborate on a company <br>⚡ Step by step to reach the goal<Strong>
+Flutter Developer | Skilled in designing and developing performance mobile applications with seamless user experiences. 
+Experienced in modern architectures, state management, and code optimization. Passionate about problem-solving, debugging, and crafting efficient, scalable solutions. Eager to collaborate in dynamic and innovative development teams
  
 
 # 💻 Tech Stack:
