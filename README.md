@@ -1,6 +1,7 @@
 # 💫 About Me:
 Flutter Developer | Skilled in designing and developing performance mobile applications with seamless user experiences. 
-Experienced in modern architectures, state management, and code optimization. Passionate about problem-solving, debugging, and crafting efficient, scalable solutions. Eager to collaborate in dynamic and innovative development teams
+Experienced in modern architectures, state management, and code optimization🌱
+Passionate about problem-solving, debugging, and crafting efficient, scalable solutions. Eager to collaborate in dynamic and innovative development teams⚡️
  
 
 # 💻 Tech Stack:
