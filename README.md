@@ -1,5 +1,5 @@
 # 💫 About Me:
-Flutter Developer | Skilled in designing and developing performance mobile applications with seamless user experiences. <br>
+Flutter/frontend web Developer | Skilled in designing and developing performance mobile applications with seamless user experiences. <br>
 Experienced in modern architectures, state management, and code optimization🌱<br>
 Passionate about problem-solving, debugging, and crafting efficient, scalable solutions. Eager to collaborate in dynamic and innovative development teams⚡️
  
